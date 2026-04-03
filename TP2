@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Emploi Du Temps « Provisoire » — IAIL- S2</title>
+</head>
+<body>
+  <html>>
+<head>
+    <title>mon ploi de temps</title>
+</head>
+<body>
+    <h2 align="center">emploi de temps</h2>
+<table border ="1">
+<tr>
+ <th>heure</th>
+ <th>8:00_9:30</th>
+ <th>9:30_11:00</th>
+ <th>11/00_12:30</th>
+ <th>12:30_14:00</th>
+ <th>14:00_15:30</th>
+ <th>15:30_17:00</th>
+</tr>
+</body>
+</html>
+<tr>
+    <td>lundi</td>
+    <td>python 2
+        <a href="message_prof.html">Pr M.Laraqi</a>
+    </td>
+    <td>algorithme c2
+        <a href="message_prof.html">Pr H.Oudani</a>
+    </td>
+    <td bgcolor="green"></td>
+    <td>algoritme et c TD g1
+        <a href="message_prof.html">Pr H.Oudani</a>
+    </td>
+    <td>python2 TD g3
+        <a href="message_prof.html">Pr A.Elouardi</a>
+    </td>
+    <td>python2 TD g2
+        <a href="message_prof.html">Pr A.Elouardi</a>
+    </td>
+</tr>
+<tr>
+     <td>mardi</td>
+    <td>python 2 TD g1
+        <a href="message_prof.html">Pr A.Elouardi</a>
+    </td>
+     <td bgcolor="green"></td>
+    <td>digitale
+        <a href="message_prof.html">Pr A.Elouardi</a>
+    </td>
+    <td>digitalle TD
+        <a href="message_prof.html">Pr A.Elouardi</a>
+    </td>
+     <td bgcolor="green"></td>
+     <td bgcolor="green"></td>
+</tr>
+<tr>
+     <td>mercredi</td>
+     <td bgcolor="green"></td>
+     <td bgcolor="green"></td>
+     <td bgcolor="green"></td>
+    <td>algoritme et c TD g2
+        <a href="message_prof.html">Pr H.Oudani</a>
+    </td>
+    <td>algébre2 TD
+        <a href="message_prof.html">Pr I.Boutaayamo</a>
+    </td>
+    <td>analyse2 TD
+        <a href="message_prof.html">Pr A.Hadri</a>
+    </td>
+</tr>
+<tr>
+     <td>jeudi</td>
+    <td>traitement de signal
+        <a href="message_prof.html">Pr H.Azzahhafi</a>
+    </td>
+    <td>traitement de signal TD
+        <a href="message_prof.html">Pr H.Azzahhafi</a>
+    </td>
+     <td bgcolor="green"></td>
+     <td bgcolor="green"></td>
+     <td bgcolor="green"></td>
+     <td bgcolor="green"></td>
+</tr>
+<tr> 
+     <td>vendredi</td>
+    <td>algébre2
+        <a href="message_prof.html">Pr I.Boutaayamo</a>
+    </td>
+    <td>analyse2
+        <a href="message_prof.html">>Pr H.Oudani</a>
+    </td>
+     <td bgcolor=""></td>
+     <td bgcolor="green"></td>
+     <td bgcolor="green"></td>s
+     <td bgcolor="green"></td>
+</tr>blak
+<tr>
+     <td>samedi</td>
+     <td bgcolor="green"></td>
+     <td bgcolor="green"></td>
+     <td bgcolor="green"></td>
+    <td>programation wibe1 TD g2
+        <a href="message_prof.html">Pr A.Hakim</a>
+    </td>
+    <td>progamation wibe1
+        <a href="message_prof.html">Pr K.Omari</a>
+    </td>
+    <td>programation wibe1 TD g1
+        <a href="message_prof.html">Pr K.Omari</a>
+    </td>
+</tr>
+</body>
+</html>
